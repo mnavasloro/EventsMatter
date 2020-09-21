@@ -1,4 +1,5 @@
 ## Extraction of Events from Court Decisions
+#### A work by Erwin Filtz, María Navas-Loro, Cristiana Santos, Axel Polleres and Sabrina Kirrane
 
 Welcome to the webpage of our work Events Matter: Extraction of Events from Court Decisions. Here you will be able to find the code and the resources from it. If you have not read it, here is an abstract of our work; a paper with more details has been submitted to JURIX 2020, and hopefully we will have soon a paper reference for it!
 
@@ -7,7 +8,7 @@ Welcome to the webpage of our work Events Matter: Extraction of Events from Cour
 
 ## Corpus
 
-The corpus consists of 30 decisions of the Eurpoean Court of Human Rights (ECHR) extracted from the HUDOC database (https://hudoc.echr.coe.int/). The guidelines, along with discussion on some interesting cases found during the annotation process, is available [here](url).
+The corpus consists of 30 decisions of the Eurpoean Court of Human Rights (ECHR) extracted from [the HUDOC database](https://hudoc.echr.coe.int/). The guidelines, along with discussion on some interesting cases found during the annotation process, is available [here](url).
 
 Please visit [the corpus Zenodo entry](https://doi.org/10.5281/zenodo.4032617) to download the dataset itself, and to refer it until the work gets published.
 
