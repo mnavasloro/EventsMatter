@@ -9,15 +9,15 @@ Welcome to the webpage of our work Events Matter: Extraction of Events from Cour
 
 The corpus consists of 30 decisions of the Eurpoean Court of Human Rights (ECHR) extracted from the HUDOC database (https://hudoc.echr.coe.int/). The guidelines, along with discussion on some interesting cases found during the annotation process, is available [here](url).
 
-Please visit https://doi.org/10.5281/zenodo.4032617 to download the corpus itself, and to refer it until the work gets published.
+Please visit [the corpus Zenodo entry](https://doi.org/10.5281/zenodo.4032617) to download the dataset itself, and to refer it until the work gets published.
 
 ## Code
 To extract events and their componentes from raw text we tested different approaches, namely deep learning models, CRF and a rule-based approach. They are all available in the links below :
 
-- Please visit https://github.com/efiltz/EventsMatter for the code of the deep learning and CRF approaches.
-- Please visit https://github.com/mnavasloro/WhenTheFact for the code of the rule-based approach.
+- Please visit [EventsMatter repository](https://github.com/efiltz/EventsMatter) for the code of the deep learning and CRF approaches.
+- Please visit [WhenTheFact repository](https://github.com/mnavasloro/WhenTheFact) for the code of the rule-based approach.
 
 ## Use Case: Timeline Generation
 
-Please visit https://whenthefact.oeg-upm.net/ for a demo of the timeline generation, where the rule-based approach is used.
+Please visit [our Demo page](https://whenthefact.oeg-upm.net/) for a demonstration of the timeline generation, where the rule-based approach is used.
 
