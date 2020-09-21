@@ -8,7 +8,7 @@ Welcome to the webpage of our work Events Matter: Extraction of Events from Cour
 
 ## Corpus
 
-The corpus consists of 30 decisions of the Eurpoean Court of Human Rights (ECHR) extracted from [the HUDOC database](https://hudoc.echr.coe.int/). The guidelines, along with discussion on some interesting cases found during the annotation process and the statistics of the corpus, is available [here](Guidelines.pdf).
+The corpus consists of 30 decisions of the Eurpoean Court of Human Rights (ECHR) extracted from [the HUDOC database](https://hudoc.echr.coe.int/). The guidelines document, including also discussion on some interesting cases found during the annotation process and the statistics of the corpus, is available [here](Guidelines.pdf).
 
 Please visit [the corpus Zenodo entry](https://doi.org/10.5281/zenodo.4032617) to download the dataset itself, and to refer it until the work gets published.
 
