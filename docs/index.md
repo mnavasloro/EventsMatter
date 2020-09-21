@@ -1,4 +1,4 @@
-## Events Matter: Extraction of Events from Court Decisions
+## Extraction of Events from Court Decisions
 
 Welcome to the webpage of our work Events Matter: Extraction of Events from Court Decisions. Here you will be able to find the code and the resources from it. If you have not read it, here is an abstract of our work; a paper with more details has been submitted to JURIX 2020, and hopefully we will have soon a paper reference for it!
 
