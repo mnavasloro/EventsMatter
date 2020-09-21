@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Events Matter: Extraction of Events from Court Decisions
 
-You can use the [editor on GitHub](https://github.com/mnavasloro/TimeMatters/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the webpage of our work Events Matter: Extraction of Events from Court Decisions. Here you will be able to find the code and the resources from it. If you have not read it, here is an abstract of our work; a paper with more details has been submitted to JURIX 2020, and hopefully we will have soon a paper reference for it!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> The analysis of court decisions and associated events is part of the daily life of many legal practitioners. Unfortunately, court decisions can often be long and complex, stating all types of facts relating to a case, which makes reading and understanding them a time-consuming task. Automated court decision timeline generation could provide a visual overview of what happened throughout a case by representing the main legal events, together with relevant temporal information. A necessary first step is to develop tools and technologies that can extract events from court decisions. Towards this end, in this paper we compare the effectiveness of three different extraction mechanisms, namely deep learning, conditional random fields, and rule-based, when it comes to the extraction of events and their components (i.e., the event type, who was involved, and when it happened). In addition, we provide a corpus of manually annotated decisions of the European Court of Human Rights, which serves as a gold standard not only for our experiments, but also for the research community for comparison and further experimentation.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Corpus
 
-```markdown
-Syntax highlighted code block
+The corpus consists of 30 decisions of the Eurpoean Court of Human Rights (ECHR) extracted from the HUDOC database (https://hudoc.echr.coe.int/). The guidelines, along with discussion on some interesting cases found during the annotation process, is available [here](url).
 
-# Header 1
-## Header 2
-### Header 3
+Please visit https://doi.org/10.5281/zenodo.4032617 to download the corpus itself, and to refer it until the work gets published.
 
-- Bulleted
-- List
+## Code
+To extract events and their componentes from raw text we tested different approaches, namely deep learning models, CRF and a rule-based approach. They are all available in the links below :
 
-1. Numbered
-2. List
+- Please visit https://github.com/efiltz/EventsMatter for the code of the deep learning and CRF approaches.
+- Please visit https://github.com/mnavasloro/WhenTheFact for the code of the rule-based approach.
 
-**Bold** and _Italic_ and `Code` text
+## Use Case: Timeline Generation
 
-[Link](url) and ![Image](src)
-```
+Please visit https://whenthefact.oeg-upm.net/ for a demo of the timeline generation, where the rule-based approach is used.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mnavasloro/TimeMatters/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
